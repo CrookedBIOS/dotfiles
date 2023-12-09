@@ -1,0 +1,37 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.inlineSuggest.enabled": true,
+    "workbench.startupEditor": "none",
+    "redhat.telemetry.enabled": false,
+    "telemetry.telemetryLevel": "off",
+    "editor.fontSize": 13,
+    "editor.fontVariations": false,
+    "editor.fontFamily": "'Jetbrains Mono', 'monospace', monospace",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": false,
+        "markdown": false
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "git.confirmSync": false,
+    "editor.minimap.enabled": false,
+    "files.associations": {
+        "*.yml": "ansible"
+    },
+    "remote.SSH.connectTimeout": 20,
+    "remote.SSH.serverPickPortsFromRange": {
+        "ansible.initfive.be": "8000-9000"
+    },
+    "remote.SSH.defaultForwardedPorts": [
+        
+        
+    ],
+    "dart.flutterSdkPath": "/home/sorbit/android/flutter"
+}
